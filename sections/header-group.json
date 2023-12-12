@@ -1,1 +1,60 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"Free Domestic Shipping over £120 and 30 Day Returns","link":""}},"12f012a9-aa3e-4ad0-9371-d702dce00102":{"type":"announcement","settings":{"text":"Women's Top Picks | Men's Top Picks","link":""}}},"block_order":["announcement-bar-0","12f012a9-aa3e-4ad0-9371-d702dce00102"],"settings":{"color_scheme":"accent-2","show_line_separator":true,"show_social":false,"auto_rotate":true,"change_slides_speed":5,"enable_country_selector":false,"enable_language_selector":false}},"header":{"type":"header","settings":{"logo_position":"middle-left","menu":"main-menu","menu_type_desktop":"mega","sticky_header_type":"reduce-logo-size","show_line_separator":true,"color_scheme":"background-1","menu_color_scheme":"background-1","enable_country_selector":false,"enable_language_selector":false,"mobile_logo_position":"center","margin_bottom":20,"padding_top":20,"padding_bottom":20}}},"order":["announcement-bar","header"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Domestic Shipping over £120 and 30 Day Returns",
+            "link": ""
+          }
+        },
+        "12f012a9-aa3e-4ad0-9371-d702dce00102": {
+          "type": "announcement",
+          "settings": {
+            "text": "Women's Top Picks | Men's Top Picks",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "12f012a9-aa3e-4ad0-9371-d702dce00102"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "drawer",
+        "sticky_header_type": "reduce-logo-size",
+        "show_line_separator": true,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 20,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

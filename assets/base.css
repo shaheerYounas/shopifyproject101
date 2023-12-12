@@ -2347,7 +2347,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 /* section-header */
 
 .section-header {
-  max-width: calc(var(--page-width) -6rem);
+  max-width: calc(var(--page-width) -20px);
 }
 
 .section-header.shopify-section-group-header-group {

@@ -2370,7 +2370,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .shopify-section-group-header-group {
   z-index: 4;
-  /* max-width: calc(var(--page-width) -6rem); */
+  max-width: calc(var(--page-width) -6rem);
 }
 
 .section-header ~ .shopify-section-group-header-group {
@@ -2394,7 +2394,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   grid-template-areas: 'left-icons heading icons';
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-  max-width: calc(var(--page-width) -6rem);
+  /* max-width: calc(var(--page-width) -6rem); */
 }
 
 @media screen and (max-width: 749px) {

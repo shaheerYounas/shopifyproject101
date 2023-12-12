@@ -2375,6 +2375,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .section-header ~ .shopify-section-group-header-group {
   z-index: initial;
+  max-width: calc(var(--page-width) -6rem);
 }
 
 /* Main Header Layout */

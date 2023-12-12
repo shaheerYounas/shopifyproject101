@@ -2349,14 +2349,13 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 /* section-header */
 
-/* .section-header {
-  max-width: calc(var(--page-width) -20px);
+.section-header {
+  max-width: 100%;
 }
- */
+
 .section-header.shopify-section-group-header-group {
   z-index: 3;
   margin:20px;
-  /* margin:(calc(var(--page-width) -6rem))px; */
   border-bottom-left-radius:5rem;
   border-bottom-right-radius:5rem;
 }

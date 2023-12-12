@@ -115,7 +115,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 }
 
 .utility-bar__grid.page-width {
-  padding-left: 3rem;
+  padding-left: 10rem;
   padding-right: 3rem;
 }
 

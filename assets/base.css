@@ -2208,16 +2208,19 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .announcement-bar-slider,
 .announcement-bar-slider .slider {
   width: 100%;
+  /* display:none; */
 }
 
 .announcement-bar .slider-button--next {
   margin-right: -1.5rem;
   min-width: 44px;
+  display:none;
 }
 
 .announcement-bar .slider-button--prev {
   margin-left: -1.5rem;
   min-width: 44px;
+  display:none;
 }
 
 .announcement-bar .slider-button--next:focus-visible,

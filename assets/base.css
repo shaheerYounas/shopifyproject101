@@ -2183,7 +2183,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .announcement-bar,
 .announcement-bar__announcement {
   color: rgb(var(--color-foreground));
-  width: 100%;
+  width: calc(var(--page-width) -9rem);
   height: 100%;
   display: flex;
   justify-content: left;

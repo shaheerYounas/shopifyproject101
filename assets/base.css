@@ -2380,7 +2380,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 /* Main Header Layout */
 .header-wrapper {
   display: block;
-  position: fixed;
+  position: relative;
   background-color: rgb(var(--color-background));
   /* max-width: calc(var(--page-width) -6rem); */
 }

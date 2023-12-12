@@ -2351,6 +2351,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .section-header {
   max-width: 100%;
+  border-bottom-left-radius:5rem;
+  border-bottom-right-radius:5rem;
 }
 
 .section-header.shopify-section-group-header-group {

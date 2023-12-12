@@ -2176,14 +2176,14 @@ product-info .loading__spinner:not(.hidden) ~ *,
   .announcement-bar.announcement-bar--one-announcement,
   .announcement-bar--one-announcement .announcement-bar__link {
     width: fit-content;
-    margin: auto;
+    margin: 10px;
   }
 }
 
 .announcement-bar,
 .announcement-bar__announcement {
   color: rgb(var(--color-foreground));
-  width: calc(var(--page-width) -9rem);
+  width: calc(var(--page-width) -6rem);
   height: 100%;
   display: flex;
   justify-content: left;

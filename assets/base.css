@@ -2355,7 +2355,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
  */
 .section-header.shopify-section-group-header-group {
   z-index: 3;
-  margin:calc(var(--page-width) -6rem);
+  margin:20px;
+  /* margin:calc(var(--page-width) -6rem); */
 }
 
 .shopify-section-header-sticky {

@@ -2345,9 +2345,14 @@ product-info .loading__spinner:not(.hidden) ~ *,
 }
 
 /* section-header */
+
+.section-header {
+  max-width: calc(var(--page-width) -6rem);
+}
+
 .section-header.shopify-section-group-header-group {
   z-index: 3;
-  max-width: calc(var(--page-width) -6rem);
+  
 }
 
 .shopify-section-header-sticky {
@@ -2370,7 +2375,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .shopify-section-group-header-group {
   z-index: 4;
-  max-width: calc(var(--page-width) -9rem);
+  /* max-width: calc(var(--page-width) -9rem); */
 }
 
 .section-header ~ .shopify-section-group-header-group {

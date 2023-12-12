@@ -2358,6 +2358,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .shopify-section-header-sticky {
   position: sticky;
   top: 0;
+  right:20px;
+  left:20px;
   /* max-width: calc(var(--page-width) -6rem); */
 }
 
@@ -2375,7 +2377,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .shopify-section-group-header-group {
   z-index: 4;
-  border-width:10px;
+  /* border-width:10px; */
   /* max-width: calc(var(--page-width) -9rem); */
 }
 

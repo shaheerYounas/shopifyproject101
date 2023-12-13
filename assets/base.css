@@ -2176,6 +2176,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   .announcement-bar.announcement-bar--one-announcement,
   .announcement-bar--one-announcement .announcement-bar__link {
     width: fit-content;
+    margin:20px;
     /* margin: calc(var(--page-width) -10rem); */
   }
 }

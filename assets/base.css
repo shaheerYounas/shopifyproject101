@@ -2186,7 +2186,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   color: rgb(var(--color-foreground));
   width: 100%;
   height: 100%;
-  display: flex;
+  display: block;
   justify-content: left;
   flex-wrap: wrap;
   align-content: center;

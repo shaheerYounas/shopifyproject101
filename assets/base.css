@@ -2128,8 +2128,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .utility-bar {
   height: 100%;
   /* width:100%; */
-  margin-right:calc(var(--page-width) - 6rem)px;
-  margin-left:calc(var(--page-width) - 6rem)px;
+  margin-right:(calc(var(--page-width) - 6rem))px;
+  margin-left:(calc(var(--page-width) - 6rem))px;
   
 }
 

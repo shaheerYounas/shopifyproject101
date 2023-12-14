@@ -162,7 +162,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   .page-width-desktop {
     max-width: var(--page-width);
     /* max-width: calc(var(--container-md-max-width) - 6rem */
-    padding: 0 5rem;
+    padding: 0 1rem;
   }
 }
 

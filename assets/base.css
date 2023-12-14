@@ -151,6 +151,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   .header:not(.drawer-menu).page-width {
     padding-left: 1rem;
     padding-right: 1rem;
+    padding-top:0px;
     /* margin-bottom: calc(var(--nav-height) + 3rem); */
   }
 

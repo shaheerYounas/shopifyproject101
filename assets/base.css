@@ -2364,8 +2364,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .section-header.shopify-section-group-header-group {
   z-index: 3;
   margin:20px;
-  border-bottom-left-radius:5rem;
-  border-bottom-right-radius:5rem;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
 }
 
 .shopify-section-header-sticky {

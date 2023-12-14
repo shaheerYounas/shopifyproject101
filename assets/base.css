@@ -2127,7 +2127,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 /* utility-bar */
 .utility-bar {
   height: 100%;
-  width:80%;
+  width:90%;
 }
 
 .utility-bar--bottom-border {

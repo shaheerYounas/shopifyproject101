@@ -2365,8 +2365,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .section-header {
   max-width: 100%;
-  padding-right:2rem;
-  padding-left:2rem;
+  /* padding-right:2rem; */
+  /* padding-left:2rem; */
   /* border-bottom-left-radius:5rem;
   border-bottom-right-radius:5rem; */
 }

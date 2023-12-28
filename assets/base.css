@@ -95,10 +95,10 @@ html.no-js .no-js-hidden {
 
 .page-width {
   max-width: var(--page-width);
-  margin: 0 0px;
+  margin: 0 1px;
   /* margin-right: 10px;
   margin-left: 10px; */
-  padding: 0 1.5rem;
+  padding: 0 0rem;
 }
 
 body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {

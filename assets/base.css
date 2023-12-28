@@ -2420,7 +2420,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   border-right:0.1rem solid rgba(var(--color-foreground), 0.08);
   border-left:0.1rem solid rgba(var(--color-foreground), 0.08);
   border-bottom-left-radius:2rem;
-  border-bottom-right-radius:1rem;
+  border-bottom-right-radius:2rem;
 }
 
 .header {

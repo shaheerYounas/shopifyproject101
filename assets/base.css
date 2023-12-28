@@ -2184,7 +2184,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   .announcement-bar.announcement-bar--one-announcement,
   .announcement-bar--one-announcement .announcement-bar__link {
     width: fit-content;
-    
+    border-left-width:0.1rem solid black;
     /* margin: calc(var(--page-width) -10rem); */
   }
 }
@@ -2199,7 +2199,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   flex-wrap: wrap;
   align-content: center;
   grid-area: announcements;
-  border-left-width:0.1rem solid black;
+  
   /* margin:20px; */
 }
 

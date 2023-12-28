@@ -132,7 +132,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   .utility-bar__grid.page-width {
     padding-left: 1rem;
     padding-right: 1rem;
-    border-right-width:2rem;
+    /* border-right-width:2rem; */
   }
 
   .page-width--narrow {
@@ -2411,6 +2411,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   display: block;
   position: relative;
   background-color: rgb(var(--color-background));
+  border-right-width:2rem;
   /* max-width: calc(var(--page-width) -6rem); */
 }
 

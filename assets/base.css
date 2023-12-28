@@ -2432,6 +2432,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   border-bottom-right-radius:2rem;
   /* padding-left:2rem; */
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  border-spacing:2rem;
 }
 
 .header {

@@ -151,7 +151,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 @media screen and (min-width: 990px) {
   .header:not(.drawer-menu).page-width {
     /* padding-left: 1rem; */
-    padding-right: 1rem;
+    /* padding-right: 1rem; */
     padding-top:2px;
     padding-bottom:2px;
     /* border-right-width:5px; */

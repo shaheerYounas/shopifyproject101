@@ -2416,6 +2416,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   display: block;
   position: relative;
   background-color: rgb(var(--color-background));
+  padding-left:2rem;
   /* border-right:0.1rem solid black; */
   /* max-width: calc(var(--page-width) -6rem); */
 }
@@ -2426,7 +2427,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   border-left:0.1rem solid rgba(var(--color-foreground), 0.08);
   border-bottom-left-radius:2rem;
   border-bottom-right-radius:2rem;
-  padding-left:2rem;
+  /* padding-left:2rem; */
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }
 

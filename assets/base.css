@@ -2379,6 +2379,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
   padding-bottom:0px;
   margin-top:0px;
   margin-bottom:10px;
+  padding-right:2rem;
+  padding-left:2rem;
   
   /* border-right:0.1rem solid black; */
   /* border-bottom-left-radius:5px;
@@ -2432,7 +2434,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   border-bottom-right-radius:2rem;
   /* padding-left:2rem; */
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
-  border-collapse:separate;
+  /* border-collapse:separate; */
   /* border-spacing:2rem; */
 }
 

@@ -2424,7 +2424,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   display: block;
   position: relative;
   background-color: rgb(var(--color-background));
-  padding-left:2rem;
+  /* padding-left:2rem; */
   /* border-right:0.1rem solid black; */
   /* max-width: calc(var(--page-width) -6rem); */
 }

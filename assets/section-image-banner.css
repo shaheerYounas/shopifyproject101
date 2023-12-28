@@ -4,6 +4,7 @@
   flex-direction: column;
   background-color:black;
   margin-inline:3rem;
+  border-radius:3rem;
 }
 
 .banner__box {

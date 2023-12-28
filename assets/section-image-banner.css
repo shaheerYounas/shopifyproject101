@@ -4,13 +4,14 @@
   flex-direction: column;
   background-color:black;
   margin-inline:3rem;
-  border-top-left-radius:2rem;
+  
   margin-top:2rem;
   margin-bottom:2rem;
 }
 
 .banner__box {
   text-align: center;
+  border-top-left-radius:2rem;
 }
 
 /* Needed for gradient continuity with or without animation, the transform scopes the gradient to its container which happens already when animation are turned on */

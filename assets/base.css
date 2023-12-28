@@ -2138,7 +2138,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 }
 
 .utility-bar--bottom-border {
-  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  /* border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08); */
   border-left:0.1rem solid rgba(var(--color-foreground), 0.08);
   border-right:0.1rem solid rgba(var(--color-foreground), 0.08);
   /* padding:0 1rem; */
@@ -2427,7 +2427,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   border-bottom-left-radius:2rem;
   border-bottom-right-radius:2rem;
   /* padding-left:2rem; */
-  border-top:0rem;
+  /* border-top:0rem; */
 }
 
 .header {

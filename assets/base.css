@@ -2199,7 +2199,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   flex-wrap: wrap;
   align-content: center;
   grid-area: announcements;
-  border-right-width:0.1rem:
+  border-left-width:0.1rem solid black;
   /* margin:20px; */
 }
 

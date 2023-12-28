@@ -2417,6 +2417,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  border-right:2rem solid black;
 }
 
 .header {
@@ -2424,7 +2425,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   grid-template-areas: 'left-icons heading icons';
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-  border-width:2rem;
+  /* border-width:2rem; */
   /* max-width: calc(var(--page-width) -6rem); */
 }
 

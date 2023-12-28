@@ -2373,6 +2373,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   padding-bottom:0px;
   margin-top:0px;
   margin-bottom:10px;
+  border-right:0.1rem solid black;
   /* border-bottom-left-radius:5px;
   border-bottom-right-radius:5px; */
 }
@@ -2411,7 +2412,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   display: block;
   position: relative;
   background-color: rgb(var(--color-background));
-  border-right:0.1rem solid black;
+  /* border-right:0.1rem solid black; */
   /* max-width: calc(var(--page-width) -6rem); */
 }
 

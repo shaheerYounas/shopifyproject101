@@ -2139,6 +2139,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .utility-bar--bottom-border {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  border-left:0.1rem solid black;
 }
 
 @media screen and (min-width: 990px) {
@@ -2184,7 +2185,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   .announcement-bar.announcement-bar--one-announcement,
   .announcement-bar--one-announcement .announcement-bar__link {
     width: fit-content;
-    border-left:0.1rem solid black;
+    
     /* margin: calc(var(--page-width) -10rem); */
   }
 }

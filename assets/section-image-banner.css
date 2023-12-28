@@ -2,6 +2,7 @@
   display: flex;
   position: relative;
   flex-direction: column;
+  background-color:black;
 }
 
 .banner__box {

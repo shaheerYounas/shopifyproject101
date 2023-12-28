@@ -2365,6 +2365,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .section-header {
   max-width: 100%;
+  padding-right:2rem;
+  padding-left:2rem;
   /* border-bottom-left-radius:5rem;
   border-bottom-right-radius:5rem; */
 }
@@ -2377,8 +2379,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   padding-bottom:0px;
   margin-top:0px;
   margin-bottom:10px;
-  padding-right:2rem;
-  padding-left:2rem;
+  
   /* border-right:0.1rem solid black; */
   /* border-bottom-left-radius:5px;
   border-bottom-right-radius:5px; */

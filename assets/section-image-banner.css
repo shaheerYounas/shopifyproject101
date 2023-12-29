@@ -462,6 +462,7 @@
   gap: 1rem;
   max-width: 30rem;
   word-break: break-word;
+  text-align:start;
 }
 
 @media screen and (max-width: 749px) {

@@ -446,6 +446,7 @@
   line-height: 100%;
   max-width: 40rem;
   text-shadow: 0.8rem 0.8rem 1.2rem rgba(0,0,0,.08);
+  text-transform: uppercase;
 }
 
 .banner__box .banner__heading + * {

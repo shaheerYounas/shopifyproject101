@@ -486,9 +486,14 @@
   .banner--content-align-center .banner__buttons--multiple > * {
     flex-grow: 1;
     min-width: 10rem;
-    border-radius:15rem;
+    /* border-radius:15rem; */
     /* text-align:start; */
-    padding:1rem;
+    /* padding:1rem; */
+    border-radius: 6rem;
+    box-shadow: 0 0 2rem var(--color-black-20);
+    font-size: 1.5rem;
+    padding: 9px 18px;
+    transition: all .2s ease-out;
   }
 
   .banner--content-align-right .banner__buttons--multiple {

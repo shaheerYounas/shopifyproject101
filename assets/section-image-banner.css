@@ -485,7 +485,7 @@
 @media screen and (min-width: 750px) {
   .banner--content-align-center .banner__buttons--multiple > * {
     flex-grow: 1;
-    min-width: 15rem;
+    min-width: 10rem;
     border-radius:10rem;
     /* text-align:start; */
     padding:1rem;

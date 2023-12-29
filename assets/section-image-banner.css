@@ -460,8 +460,9 @@
   display: inline-flex;
   flex-wrap: wrap;
   gap: 1rem;
-  max-width: 20rem;
+  max-width: 10rem;
   word-break: break-word;
+  border-bottom-left-radius:3rem;
   
 }
 

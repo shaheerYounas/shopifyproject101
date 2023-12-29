@@ -462,8 +462,8 @@
   gap: 1rem;
   max-width: 30rem;
   word-break: break-word;
-  border-bottom-left-radius:1rem;
-  border-bottom-right-radius:1rem;
+  border-bottom-left-radius:3rem;
+  border-bottom-right-radius:3rem;
   overflow:hidden;
   text-align:start;
   padding:1rem;

@@ -356,9 +356,9 @@
   padding: 4rem 3.5rem;
   position: relative;
   height: fit-content;
-  align-items: center;
+  align-items: start;
   text-align: start;
-  width: 50%;
+  width: 100%;
   word-wrap: break-word;
   z-index: 1;
 }

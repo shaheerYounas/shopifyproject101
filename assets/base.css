@@ -156,6 +156,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
     padding-bottom:2px;
     /* border-right-width:5px; */
     /* margin-bottom: calc(var(--nav-height) + 3rem); */
+    overflow:hidden;
   }
 
   .page-width--narrow {

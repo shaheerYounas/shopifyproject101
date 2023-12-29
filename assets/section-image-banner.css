@@ -490,7 +490,7 @@
   }
 
   .banner--content-align-right .banner__buttons--multiple {
-    justify-content: flex-end;
+    justify-content: flex-start;
   }
 }
 

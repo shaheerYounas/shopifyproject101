@@ -403,6 +403,7 @@
 .banner__box > * + .banner__text {
   margin-top: 1.5rem;
   color:white;
+  text-align:start;
 }
 
 @media screen and (min-width: 750px) {

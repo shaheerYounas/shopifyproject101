@@ -140,6 +140,7 @@
   .banner__content.banner__content--bottom-left {
     align-items: flex-end;
     justify-content: flex-start;
+    border-bottom-right-radius:2rem;
   }
 
   .banner__content.banner__content--bottom-center {

@@ -14,7 +14,7 @@
 .banner__box {
   text-align: center;
   word-wrap:normal;
-  width:10rem;
+  /* width:10rem; */
 }
 
 /* Needed for gradient continuity with or without animation, the transform scopes the gradient to its container which happens already when animation are turned on */
@@ -45,7 +45,7 @@
   .banner--content-align-left.banner--desktop-transparent .banner__box,
   .banner--content-align-right.banner--desktop-transparent .banner__box,
   .banner--medium.banner--desktop-transparent .banner__box {
-    max-width: 68rem;
+    max-width: 50rem;
   }
 }
 

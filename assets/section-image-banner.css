@@ -487,7 +487,8 @@
     flex-grow: 1;
     min-width: 5rem;
     border-radius:7rem;
-    text-align:start;
+    /* text-align:start; */
+    padding:0rem;
   }
 
   .banner--content-align-right .banner__buttons--multiple {

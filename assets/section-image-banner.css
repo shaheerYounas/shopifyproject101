@@ -358,7 +358,7 @@
   height: fit-content;
   align-items: center;
   text-align: start;
-  width: 70%;
+  width: 50%;
   word-wrap: break-word;
   z-index: 1;
 }

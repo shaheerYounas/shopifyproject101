@@ -460,7 +460,7 @@
   display: inline-flex;
   flex-wrap: wrap;
   gap: 1rem;
-  max-width: 30rem;
+  max-width: 20rem;
   word-break: break-word;
   border-radius:3rem;
   /* border-bottom-right-radius:3rem; */

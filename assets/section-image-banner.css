@@ -446,7 +446,7 @@
   /* font-size: clamp(2.2rem,3vw,3.5rem); */
   font-size:5rem;
   line-height: 100%;
-  max-width: 30rem;
+  max-width: 10rem;
   text-shadow: 0.8rem 0.8rem 1.2rem rgba(0,0,0,.08);
   text-transform: uppercase;
   font-family: GT,Helvetica,serif;

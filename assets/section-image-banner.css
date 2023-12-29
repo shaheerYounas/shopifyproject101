@@ -442,7 +442,7 @@
   margin-bottom: 0;
   color:white;
   /* font-size: clamp(2.2rem,3vw,3.5rem); */
-  font-size:3.5rem;
+  font-size:5rem;
 }
 
 .banner__box .banner__heading + * {

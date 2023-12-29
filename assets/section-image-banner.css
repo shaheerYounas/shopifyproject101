@@ -460,13 +460,13 @@
   display: inline-flex;
   flex-wrap: wrap;
   gap: 1rem;
-  max-width: 15rem;
+  max-width: 30rem;
   word-break: break-word;
   border-bottom-left-radius:1rem;
   border-bottom-right-radius:1rem;
   overflow:hidden;
   text-align:start;
-  padding:0rem;
+  padding:1rem;
 }
 
 @media screen and (max-width: 749px) {

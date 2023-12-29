@@ -467,6 +467,7 @@
   overflow:hidden;
   text-align:start;
   padding:1rem;
+  margin:3rem;
 }
 
 @media screen and (max-width: 749px) {

@@ -15,7 +15,7 @@
   text-align: center;
   word-wrap:normal;
   /* width:10rem; */
-  width:50%;
+  /* width:50%; */
 }
 
 /* Needed for gradient continuity with or without animation, the transform scopes the gradient to its container which happens already when animation are turned on */
@@ -441,6 +441,7 @@
 .banner__heading {
   margin-bottom: 0;
   color:white;
+  font-size: clamp(2.2rem,3vw,3.5rem);
   /* font-size:3.5rem; */
 }
 

@@ -463,6 +463,7 @@
   max-width: 10rem;
   word-break: break-word;
   border-bottom-left-radius:3rem;
+  overflow:hidden;
   
 }
 

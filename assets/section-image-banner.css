@@ -465,7 +465,7 @@
   border-bottom-left-radius:1rem;
   border-bottom-right-radius:1rem;
   overflow:hidden;
-  
+  text-align:start;
 }
 
 @media screen and (max-width: 749px) {

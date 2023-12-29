@@ -486,7 +486,7 @@
   .banner--content-align-center .banner__buttons--multiple > * {
     flex-grow: 1;
     min-width: 10rem;
-    border-radius:10rem;
+    border-radius:15rem;
     /* text-align:start; */
     padding:1rem;
   }

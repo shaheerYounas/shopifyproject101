@@ -494,11 +494,12 @@
     font-size: 1.5rem;
     padding: 9px 18px;
     transition: all .2s ease-out;
+    background-color:transparent;
   }
 
   .banner--content-align-right .banner__buttons--multiple {
     justify-content: flex-end;
-    background-color:transparent;
+    
   }
 }
 

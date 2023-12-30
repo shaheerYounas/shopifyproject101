@@ -498,6 +498,7 @@
 
   .banner--content-align-right .banner__buttons--multiple {
     justify-content: flex-end;
+    background-color:transparent;
   }
 }
 

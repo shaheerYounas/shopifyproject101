@@ -494,7 +494,7 @@
     font-size: 1.5rem;
     padding: 9px 18px;
     transition: all .2s ease-out;
-    background-color:transparent;
+    background-color:rgba(255, 255, 255, 0.5);
   }
 
   .banner--content-align-right .banner__buttons--multiple {

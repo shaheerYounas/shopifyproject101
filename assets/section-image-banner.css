@@ -496,6 +496,7 @@
     /* transition: all .2s ease-out; */
     background-color:rgba(255, 255, 255, 0.5);
     color:white;
+    text-weight:5rem;
   }
 
   .banner--content-align-right .banner__buttons--multiple {

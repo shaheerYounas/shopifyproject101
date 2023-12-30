@@ -522,6 +522,8 @@
   .banner--desktop-transparent .rte a,
   .banner--desktop-transparent .inline-richtext a:hover,
   .banner--desktop-transparent .rte a:hover {
-    color: currentColor;
+    /* color: currentColor; */
+    background-color:white;
+    color:black;
   }
 }

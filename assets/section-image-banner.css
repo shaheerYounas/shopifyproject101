@@ -499,6 +499,11 @@
     text-weight:5rem;
   }
 
+.banner--content-align-center .banner__buttons--multiple > * :hover{
+  background-color:white; */
+  color:black;
+}
+  
   .banner--content-align-right .banner__buttons--multiple {
     justify-content: flex-end;
     
@@ -522,8 +527,7 @@
   .banner--desktop-transparent .rte a,
   .banner--desktop-transparent .inline-richtext a:hover,
   .banner--desktop-transparent .rte a:hover {
-    /* color: currentColor; */
-    background-color:white;
-    color:black;
+    color: currentColor;
+    
   }
 }

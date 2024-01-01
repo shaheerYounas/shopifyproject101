@@ -62,7 +62,7 @@
   display: flex-end;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 10rem;
+  gap: 1rem;
   width: 100%;
   max-width: 20rem;
   word-break: break-word;
@@ -75,6 +75,7 @@
 
 .rich-text__buttons + .rich-text__buttons {
   margin-top: 1rem;
+  justify-content:flex-end;
 }
 
 .rich-text__blocks.left .rich-text__buttons {

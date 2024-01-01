@@ -78,7 +78,7 @@
 }
 
 .rich-text__blocks.left .rich-text__buttons {
-  justify-content: flex-start;
+  justify-content: flex-end;
 }
 
 .rich-text__blocks.right .rich-text__buttons {

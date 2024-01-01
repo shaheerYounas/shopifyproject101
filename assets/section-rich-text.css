@@ -54,6 +54,7 @@
 
 .rich-text__blocks * {
   overflow-wrap: break-word;
+  display:inline;
 }
 
 .rich-text__blocks > * {

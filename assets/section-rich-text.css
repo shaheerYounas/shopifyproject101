@@ -46,7 +46,7 @@
   } */
 
   .rich-text__text{
-    display:inline;
+    display:block;
     /* padding:5rem; */
   }
   

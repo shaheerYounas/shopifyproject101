@@ -62,7 +62,6 @@
   display: flex-end;
   justify-content: center;
   flex-wrap: wrap;
-  /* align-items:right; */
   gap: 1rem;
   width: 100%;
   max-width: 45rem;
@@ -76,11 +75,10 @@
 
 .rich-text__buttons + .rich-text__buttons {
   margin-top: 1rem;
-  justify-content:flex-end;
 }
 
 .rich-text__blocks.left .rich-text__buttons {
-  justify-content: flex-end;
+  justify-content: flex-start;
 }
 
 .rich-text__blocks.right .rich-text__buttons {

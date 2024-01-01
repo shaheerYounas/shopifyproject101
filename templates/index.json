@@ -47,9 +47,52 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "f728fa09-cfcb-4661-bdaf-1ae7e4a753ac": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16447482495165__f728fa09-cfcb-4661-bdaf-1ae7e4a753ac-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Womens",
+            "heading_size": "h1"
+          }
+        },
+        "template--16447482495165__f728fa09-cfcb-4661-bdaf-1ae7e4a753ac-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Winter Essentials<\/h1>"
+          }
+        },
+        "template--16447482495165__f728fa09-cfcb-4661-bdaf-1ae7e4a753ac-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop All",
+            "button_link": "#",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16447482495165__f728fa09-cfcb-4661-bdaf-1ae7e4a753ac-heading-1",
+        "template--16447482495165__f728fa09-cfcb-4661-bdaf-1ae7e4a753ac-text-1",
+        "template--16447482495165__f728fa09-cfcb-4661-bdaf-1ae7e4a753ac-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 8
+      }
     }
   },
   "order": [
-    "5545f773-6e94-4b49-becc-127964b1fd62"
+    "5545f773-6e94-4b49-becc-127964b1fd62",
+    "f728fa09-cfcb-4661-bdaf-1ae7e4a753ac"
   ]
 }

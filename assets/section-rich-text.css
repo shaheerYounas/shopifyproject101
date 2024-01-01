@@ -40,9 +40,9 @@
     max-width: 78rem;
   }
 
-  .rich-text__heading{
+  /* .rich-text__heading{
     padding:10rem;
-  }
+  } */
 }
 
 .rich-text__blocks * {

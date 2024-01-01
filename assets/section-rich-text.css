@@ -46,6 +46,7 @@
 
   .rich-text__text{
     display:inline;
+    /* padding:5rem; */
   }
   
 }
